@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/rnn.dir/main.cpp.o CMakeFiles/rnn.dir/src/lstm/lstm_paras.cpp.o CMakeFiles/rnn.dir/src/lstm/lstm.cpp.o CMakeFiles/rnn.dir/src/utils/math.cpp.o  -o rnn 

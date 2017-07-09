@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="rnn"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhongchao03/workspace/git/rnn/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhongchao03/workspace/git/rnn/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhongchao03/workspace/git/rnn/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rnn">
+				<Option output="/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/rnn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhongchao03/workspace/git/rnn/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhongchao03/workspace/git/rnn/./include/eigen-3.3.4"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 rnn"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rnn/fast">
+				<Option output="/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/rnn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhongchao03/workspace/git/rnn/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhongchao03/workspace/git/rnn/./include/eigen-3.3.4"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 rnn/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhongchao03/workspace/git/rnn/main.cpp">
+			<Option target="rnn"/>
+		</Unit>
+		<Unit filename="/Users/zhongchao03/workspace/git/rnn/src/lstm/lstm.cpp">
+			<Option target="rnn"/>
+		</Unit>
+		<Unit filename="/Users/zhongchao03/workspace/git/rnn/src/lstm/lstm.h">
+			<Option target="rnn"/>
+		</Unit>
+		<Unit filename="/Users/zhongchao03/workspace/git/rnn/src/lstm/lstm_paras.cpp">
+			<Option target="rnn"/>
+		</Unit>
+		<Unit filename="/Users/zhongchao03/workspace/git/rnn/src/lstm/lstm_paras.h">
+			<Option target="rnn"/>
+		</Unit>
+		<Unit filename="/Users/zhongchao03/workspace/git/rnn/src/utils/math.cpp">
+			<Option target="rnn"/>
+		</Unit>
+		<Unit filename="/Users/zhongchao03/workspace/git/rnn/src/utils/math.h">
+			<Option target="rnn"/>
+		</Unit>
+		<Unit filename="/Users/zhongchao03/workspace/git/rnn/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

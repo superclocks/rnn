@@ -1,0 +1,3 @@
+/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhongchao03/workspace/git/rnn/cmake-build-debug/CMakeFiles/rnn.dir
